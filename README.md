@@ -7,7 +7,13 @@ Malaria is a life-threatening disease caused by parasites that are transmitted t
 
 Artificial intelligence (AI) has the potential to help tackle some of the world’s most challenging problems and when coupled with popular tools and technologies for development and betterment of our society, what the point of technology when it can't help the needy and save lives. Deep learning helps us to build robust, scalable and effective solutions which can be adopted by everyone even in remote corners of the world and detection of Malaria is one of the problems which Deep learning has help to tackle.
 
-It is a transfer learning based automatic classification system that is applied for the Classification of Malaria Infected Cells is presented. In order to achieve fully automated diagnosis without any manual feature extraction, I chose deep convolutional neural network (CNN) as the classifier. <b> I have used InceptionV3 </b>
+It is a transfer learning based automatic classification system that is applied for the Classification of Malaria Infected Cells is presented. In order to achieve fully automated diagnosis without any manual feature extraction, I chose deep convolutional neural network (CNN) as the classifier.
+
+# Description:
+* Detection of malarial parasites from thin Blood Smear images. Images were collected from Malaria screening research activity by National Institutes of Health (NIH).
+* Employed <b>Inception V3 </b> Deep Learning (Convolutional Neural Network) and fine-tuned the model weights in the entire network to distinguish infected from uninfected images. Used Tensorflow 2.4 for model training. Incrementally unfroze and tuned all layers in the network.
+* Image augmentation and resizing of images were done on the fly during the training process.
+* Attained a loss (categorical crossentropy)  and an accuracy 97% on the test data.
 
 # DEMO Of MY-APP:
 ![alt-text](https://github.com/babiishita09/Malaria_detection_using_transfarlearning-Deep-Learning-/blob/main/Screenshot%20(44).png)
