@@ -11,5 +11,5 @@ It is a transfer learning based automatic classification system that is applied 
 
 # DEMO Of MY-APP:
 ![alt-text](https://github.com/babiishita09/Malaria_detection_using_transfarlearning-Deep-Learning-/blob/main/Screenshot%20(44).png)
-![alt-text](https://github.com/babiishita09/Malaria_detection_using_transfarlearning-Deep-Learning-/blob/main/Screenshot%20(45).png)
+![alt-text](https://github.com/babiishita09/Malaria_detection_using_transfarlearning-Deep-Learning-/blob/main/Screenshot%20(46).png)
 ![alt-text](https://github.com/babiishita09/Malaria_detection_using_transfarlearning-Deep-Learning-/blob/main/Screenshot%20(43).png)
