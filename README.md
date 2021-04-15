@@ -9,3 +9,6 @@ Artificial intelligence (AI) has the potential to help tackle some of the worldâ
 
 It is a transfer learning based automatic classification system that is applied for the Classification of Malaria Infected Cells is presented. In order to achieve fully automated diagnosis without any manual feature extraction, I chose deep convolutional neural network (CNN) as the classifier. <b> I have used InceptionV3 </b>
 
+# DEMO Of MY-APP:
+![alt-text](https://github.com/babiishita09/Malaria_detection_using_transfarlearning-Deep-Learning-/blob/main/Screenshot%20(44).png)
+
